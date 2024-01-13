@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nil</h1>
 <h3 align="center">A passionate aspiring full-stack developer!</h3>
-<img align="right" alt="Coding" width="350" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" alt="Coding" width="360" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gozdexnil&label=Profile%20views&color=0e75b6&style=flat" alt="gozdexnil" /> </p>
 
 - 🔭 I’m currently working on **a Data Analysis Project**
